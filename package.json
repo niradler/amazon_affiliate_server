@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-starter",
+  "name": "amazon_product_fetch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
